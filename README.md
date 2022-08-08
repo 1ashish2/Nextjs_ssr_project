@@ -1,4 +1,4 @@
-# tesco_nextjs_project
+#Nextjs_SSR_project
 for nextjs folder :--
 step1:
   npm install
